@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnneLiu49
 - 👀 I’m interested in coding,designing,drawing,music and cooking
 - 🌱 I’m currently learning Javascript,WebPack, Vue and React
-- 💞️ I’m looking to collaborate on FED project
+- 💞️ I’m looking to collaborate on FED projects
 - 📫 Reach me via: anneliu49@gmail.com
 
 <!---
